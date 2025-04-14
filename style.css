@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
     border: none;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
@@ -18,10 +19,11 @@
 }
 
 .navlogo{
-    background-image: url("amazon_logo.png");
+    background: url("amazon_logo.png"),no-repeat;
     height: 50px;
     width: 120px;
     background-size:contain;
+    
 }
 
 .location{
@@ -55,12 +57,15 @@
     align-items: center;
     justify-content: space-evenly;
     width: 45.5%;
+    border: 3px solid transparent;
 
 }
 
 .searchbar input{
     height:41px;
     width: 600px;
+    outline: none;
+
 }
 
 .search-image{
@@ -106,7 +111,7 @@
     border: 1.4px solid white;
 }
 
-.border-search:selected {
+.border-search:active {
     border: 3px solid orange;
     border-radius: 7px;
 }
@@ -126,7 +131,7 @@
 .all a{
     margin-left: 4px;
 }
-/*  */
+
 
 .main-content{
     background-color: #E3E6E6;
