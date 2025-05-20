@@ -1,7 +1,7 @@
 
 # 🛒 Amazon Clone 
 
-This project is a **front-end clone** of Amazon India's mobile website interface. It replicates the layout, design, and responsiveness to give users a similar experience on smaller screens.
+This project is a **front-end clone** of Amazon India's mobile website interface. It replicates the layout, designs.
 
 ![Screenshot](./screenshot.png)
 
@@ -44,9 +44,6 @@ amazon-clone/
 
 2. Open `index.html` in any web browser.
 ````
-
-2. Open `index.html` in any web browser.
-
 
 ## 🙌 Acknowledgements
 
