@@ -27,13 +27,19 @@ This project is a **front-end clone** of Amazon India's mobile website interface
 ```
 
 amazon-clone/
-├── index.html
-├── style.css
-├── script.js (optional)
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
+├── README.md
+├── amazon_logo.png # Amazon logo used in the header
+├── box1_image.jpg # Product image 1
+├── box2_image.jpg # Product image 2
+├── box3_image.jpg # Product image 3
+├── box4_image.jpg # Product image 4
+├── box5_image.jpg # Product image 5
+├── box6_image.jpg # Product image 6
+├── box7_image.jpg # Product image 7
+├── box8_image.jpg # Product image 8
+├── hero_image.jpg # Large hero/banner image
+├── index.html # Main HTML file
+└── style.css # CSS styling file
 
 ````
 
