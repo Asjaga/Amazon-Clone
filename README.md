@@ -1,7 +1,7 @@
 
 # 🛒 Amazon Clone 
 
-This project is a **front-end clone** of Amazon India's mobile website interface. It replicates the layout, designs.
+This project is a **front-end clone** of Amazon India's website interface. It replicates the layout, designs.
 
 ![image](https://github.com/user-attachments/assets/1e8e0ba5-8405-4152-a7c0-ab72e96842a9)
 
