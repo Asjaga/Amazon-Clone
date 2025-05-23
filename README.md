@@ -1,9 +1,5 @@
 
 # 🛒 Amazon Clone 
-# 🛒 Amazon Clone3
-
-# 🛒 Amazon Clone2 
-
 
 This project is a **front-end clone** of Amazon India's website interface. It replicates the layout, designs.
 
